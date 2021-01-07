@@ -7,19 +7,19 @@
 * 《《大山大河》》
 * 《《教父》》系列
 
-## 单行的代码
+## 单行代码块
 `printf("hello world")`
-## 多行代码
+## 多行代码块
 ```
 function(){
   console.log('hello world')
 }
 ```
-## 多行代码+标注是javascript代码
+## 标注是javascript的多行代码块
 ```javascript
 function(){
   console.log('hello world')
 }
 ```
 # 愿望
-愿新的一年里，万事顺利！
+愿新的一年里，好好准备工作，愿万事顺利！
