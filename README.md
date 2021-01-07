@@ -15,7 +15,7 @@ function(){
   console.log('hello world')
 }
 ```
-## 标注是javascript的多行代码块
+## javascript的多行代码块
 ```javascript
 function(){
   console.log('hello world')
