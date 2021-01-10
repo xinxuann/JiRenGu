@@ -7,7 +7,7 @@
 * 小明
 * 小红
 
-```javascript
+```
 function(){
   console.log('hello world')
 }
